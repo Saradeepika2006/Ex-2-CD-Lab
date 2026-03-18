@@ -80,7 +80,7 @@ return 0;
 ```
 
 # OUTPUT
-<img width="1920" height="1200" alt="ex1 2" src="https://github.com/user-attachments/assets/ced3a10a-588d-453c-bad9-80a0cd99f062" />
+<img width="1920" height="1200" alt="ex 2" src="https://github.com/user-attachments/assets/cf0e9ad3-0b89-481b-b805-ab18cd995e56" />
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
